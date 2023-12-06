@@ -1,17 +1,17 @@
 # Support 
 Shark HT
+
 https://www.facebook.com/id=MrSharkHunter.vn
+
 telegram : @MrSharkHunter
 
 <div align="center">
 
-# [![beast](https://github.com/Ahajabqkjababsj)](https://t.me/MrSharkHunter)
+# [![Shark](https://github.com/Ahajabqkjababsj)](https://t.me/MrSharkHunter)
 
 # SHARK HUNTER 💣
 
-# 📌 Menu / Меню
-
-📌 [<kbd>EN</kbd>](#-en))
+# 📌 Menu
 - [<kbd>DDoS</kbd>](#-ddos-info))
 
 * DDoS attack
@@ -24,13 +24,14 @@ telegram : @MrSharkHunter
 
 -Cách Cài Đặt :
 
-    git clonehttps://github.com/Ahajabqkjababsj/Shark-V1
-    
-    cd Shark-V1
+git clonehttps://github.com/Ahajabqkjababsj/Shark-V1
+
+
+cd Shark-V1
 
 - Lệnh Vào TooL :
 
-  python SharkHT.py
+ python SharkHT.py
 
 # 📌 METHOD
 HTTP-MIX
